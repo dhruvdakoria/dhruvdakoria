@@ -55,7 +55,8 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 <br/>
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/dhruvdakoria">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhruvdakoria)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvdakoria&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdakoria&theme=buefy&layout=compact" />
 </a>
