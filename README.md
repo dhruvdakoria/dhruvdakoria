@@ -35,6 +35,8 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+  [![TypeScript](https://badges.frapsoft.com/typescript/code/typescript.svg?v=101)](https://github.com/ellerbrock/typescript-badges/)
+
 - ☁ &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
   ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure&logoColor=007396)
