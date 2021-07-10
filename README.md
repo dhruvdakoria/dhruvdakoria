@@ -13,6 +13,9 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 - 💼 &nbsp; I love building highly available, scalable and cost-efficient systems - Senior Cloud Engineer / DevOps Engineer.
 - 🌱 &nbsp; Super passionate about utilizing technology to help transform the world and serve people for the better.
 - ✍️ &nbsp; I love to code things from scratch, and enjoy bringing ideas to life with code.
+<br />
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhruvdakoria&hide_border=true)](https://git.io/streak-stats)
 
 <br/>
 <br/>
@@ -23,6 +26,10 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
+- ☁ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure&logoColor=007396)
+  ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=gcp%2B%2B&logoColor=00599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -55,8 +62,8 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 <br/>
 <br/>
 
+
 <a href="https://github.com/dhruvdakoria">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhruvdakoria)](https://git.io/streak-stats)
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvdakoria&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdakoria&theme=buefy&layout=compact" />
 </a>
