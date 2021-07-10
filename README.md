@@ -2,10 +2,20 @@
 
 I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 
-[Website](https://www.dhruvdakoria.com)
 
-<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
+<p align="center">
+<a href="https://www.dhruvdakoria.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dhruvdakoria.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/dhruv-dakoria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruv%20Dakoria-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/dhruv.dakoria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dhruv.dakoria__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.amazon.ca/Venture-Into-Future-Nanotechnology-Intelligence-ebook/dp/B01N3ZRGRL/ref=sr_1_2?dchild=1&keywords=venture+into+the+future&qid=1621807614&sr=8-2"><img alt="Publication-Amazon" src="https://img.shields.io/badge/Amazon-Dhruv Dakoria-blue?style=flat-square&logo=amazon"></a>
+<a href="mailto:dhruvdakoria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhruvdakoria-blue?style=flat-square&logo=gmail"></a>
+</p>
+
+<br/><br/>
+<!-- <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; I design and code beautifully simple things, and I love what I do. I believe, the human potential is nearly limitless and that success is an inside-out process. 
@@ -17,8 +27,7 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=dhruvdakoria&hide_border=true)](https://git.io/streak-stats)
 
-<br/>
-<br/>
+<br/><br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -59,30 +68,15 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
-<br/>
-
+<br/><br/>
 
 <a href="https://github.com/dhruvdakoria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhruvdakoria&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvdakoria&theme=buefy&layout=compact" />
 </a>
 
-<br/>
-<br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
-<p align="center">
-<a href="https://www.dhruvdakoria.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dhruvdakoria.com-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/dhruv-dakoria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruv%20Dakoria-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/dhruv.dakoria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dhruv.dakoria__-blue?style=flat-square&logo=instagram"></a>
-<a href="https://www.amazon.ca/Venture-Into-Future-Nanotechnology-Intelligence-ebook/dp/B01N3ZRGRL/ref=sr_1_2?dchild=1&keywords=venture+into+the+future&qid=1621807614&sr=8-2"><img alt="Publication-Amazon" src="https://img.shields.io/badge/Amazon-Dhruv Dakoria-blue?style=flat-square&logo=amazon"></a>
-<a href="mailto:dhruvdakoria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhruvdakoria-blue?style=flat-square&logo=gmail"></a>
-</p>
-
-<br/>
-<br/>
+<br/><br/>
 
 <h3> 🏅 &nbsp;Certifications </h3>
 
@@ -95,4 +89,9 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 - [The University of Texas at Austin - Embedded Systems - Shape The World: Microcontroller Input/output](https://courses.edx.org/certificates/5684f615de2b4ea3a70e32b1a44d9c6c)
 - [CCNA - Routing and Switching](https://drive.google.com/file/d/1AG9OQ2xEzvEbtxxLRpEPzwTIDCOt_Ctp/view)
 
+<br/>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 :star: From [dhruvdakoria](https://github.com/dhruvdakoria/)
