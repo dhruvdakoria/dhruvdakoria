@@ -8,7 +8,7 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 <p align="center">
 <a href="https://www.dhruvdakoria.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.dhruvdakoria.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/dhruv-dakoria/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Dhruv%20Dakoria-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/dhruv.dakoria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dhruv.dakoria__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/dhruv.dakoria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dhruv.dakoria-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.amazon.ca/Venture-Into-Future-Nanotechnology-Intelligence-ebook/dp/B01N3ZRGRL/ref=sr_1_2?dchild=1&keywords=venture+into+the+future&qid=1621807614&sr=8-2"><img alt="Publication-Amazon" src="https://img.shields.io/badge/Amazon-Dhruv Dakoria-blue?style=flat-square&logo=amazon"></a>
 <a href="https://www.twitter.com/dhruvdakoria/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-dhruvdakoria-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:dhruvdakoria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhruvdakoria-blue?style=flat-square&logo=gmail"></a>
@@ -83,7 +83,6 @@ I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
 - [AWS Certified SysOps Administrator Associate](https://www.credly.com/badges/05592346-9062-417e-9ff6-800cafbd8195/linked_in_profile)
 - [AWS Certified Developer Associate](https://www.credly.com/badges/8553fd7f-7b37-48f4-8c02-4a442c7ceac0/linked_in_profile)
 - [AWS Certified Solutions Architect Associate](https://www.credly.com/badges/08681cc8-d9fd-440d-9e5d-50d7fe0d5a5b/linked_in_profile)
-- [Azure Certified - AZ900 Azure Fundamentals](https://www.credly.com/badges/690d2d29-710e-46fe-854c-d66c6a1027b5) 
 - [Azure Certified - AZ900 Azure Fundamentals](https://www.credly.com/badges/690d2d29-710e-46fe-854c-d66c6a1027b5) 
 - [The University of Texas at Austin - Embedded Systems - Shape The World: Microcontroller Input/output](https://courses.edx.org/certificates/5684f615de2b4ea3a70e32b1a44d9c6c)
 - [CCNA - Routing and Switching](https://drive.google.com/file/d/1AG9OQ2xEzvEbtxxLRpEPzwTIDCOt_Ctp/view)
