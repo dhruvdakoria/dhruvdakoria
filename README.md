@@ -1,6 +1,6 @@
 <h2> Hi there! I'm Dhruv <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h2>
 
-I'm a Senior Cloud/DevOps Engineer. I live in the beautiful city of Toronto.
+I'm a Cloud DevOps Engineer. I live in the beautiful city of Toronto.
 
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
