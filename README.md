@@ -11,6 +11,7 @@ I'm a Cloud DevOps Engineer. I live in the beautiful city of Toronto.
 <a href="https://www.instagram.com/dhruv.dakoria/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-dhruv.dakoria-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.amazon.ca/Venture-Into-Future-Nanotechnology-Intelligence-ebook/dp/B01N3ZRGRL/ref=sr_1_2?dchild=1&keywords=venture+into+the+future&qid=1621807614&sr=8-2"><img alt="Publication-Amazon" src="https://img.shields.io/badge/Amazon-Dhruv Dakoria-blue?style=flat-square&logo=amazon"></a>
 <a href="https://www.twitter.com/dhruvdakoria/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-dhruvdakoria-blue?style=flat-square&logo=twitter"></a>
+<a href="https://medium.com/@dhruvdakoria"><img alt="Medium" src="https://img.shields.io/badge/Medium-dhruvdakoria-blue?style=flat-square&logo=medium"></a>
 <a href="mailto:dhruvdakoria@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dhruvdakoria-blue?style=flat-square&logo=gmail"></a>
 </p>
 
